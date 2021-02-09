@@ -42,7 +42,7 @@ def hotstar(update,context):
                         [
                             InlineKeyboardButton(
                                 text="Join Us",
-                                url = "t.me/knightgiveaways"
+                                url = "https://t.me/lndiangiveaways"
                             )
                         ]
                     ]
